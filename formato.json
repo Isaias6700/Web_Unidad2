@@ -1,0 +1,26 @@
+{
+    "Nombre": "S\u00c3\u00a1nchez Herrera Isaias",
+    "Materias": [
+        {
+            "Nombre": "Base de datos distribuidas",
+            "Promedio": 85
+        },
+        {
+            "Nombre": "Programacion orientadada objetos",
+            "Promedio": 73
+        },
+        {
+            "Nombre": "Analisis y dise\u00f1o de sistemas de informacion",
+            "Promedio": 78
+        },
+        {
+            "Nombre": "Dise\u00f1o UX y UI",
+            "Promedio": 100
+        },
+        {
+            "Nombre": "Inteligencia Artificial",
+            "Promedio": 85
+        }
+    ],
+    "Promedio": 84.2
+}
